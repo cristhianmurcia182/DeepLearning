@@ -1,11 +1,10 @@
 # Dog Application
 
-
-![Project output](images/project_output.png)
-
 The aim of this repository is to use data science and deep learning techniques to create an application capable of achiving the following:
 1. Determine whether an input photo contains a human or a dog.
 2. In case of finding a dog indicate what is its breed (according to a predefined set of 133 classes), In case of finding a human to indicate which dog breed is resembled.
+
+![Project output](images/project_output.png)
 
 # Implementation
 
