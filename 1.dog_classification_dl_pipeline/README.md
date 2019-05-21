@@ -9,11 +9,10 @@ The aim of this repository is to use data science and deep learning techniques t
 
 # Implementation
 
-This project propose a complete deep learning pipeline to achive the tasks described above.
-In first place I defined and trained a CNN from scratch inspired by VGG16.
-In second place I used transfer learning, using the pretrained VGG16 CNN as feature extractor.
-Finally I compared the performance of both network on my testing set finding out that the one that used transfer learning was by far superior
-achieving 70% of accuracy on the testing set.
+This project proposes a complete deep learning pipeline to achive the tasks described above.
+In first place, I defined and trained a CNN from scratch inspired by VGG16.
+In second place, I applied transfer learning, using the pretrained VGG16 CNN as feature extractor.
+Finally I compared the performance of both network on my testing set finding out that the one that used transfer learning was by far superior achieving 70% of accuracy on the testing set.
 
 # Project Execution
 
