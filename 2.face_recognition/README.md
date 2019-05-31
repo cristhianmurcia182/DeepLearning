@@ -32,3 +32,12 @@ The <path> option is the pointing to the image(s) to be recognized. If you typed
 To test your system real time with your laptop camera try step 4
 
 4. **python recognize_face_in_video.py**
+
+## Sources.
+
+This repo was inspired by:
+
+*https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/*
+*https://krasserm.github.io/2018/02/07/deep-face-recognition/*
+*https://www.coursera.org/specializations/deep-learning*
+
