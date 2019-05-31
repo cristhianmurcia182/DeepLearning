@@ -14,7 +14,7 @@ Before trying the code please make sure that you follow the instructions listed 
 1. Install python 3.6.
 2. Download and install Visual Studio (including the C++). This is important so that the dlib installation does not crash.
 3. Create a new python 3.6 virtual environment and install the dependencies listed in the requirement.txt file (i.e. pip install -r requirementx.txt).
-4. Create a folder that lives in the same path of this repo called images. This folder will store the images to be used during the training phase. Please follow the structure shown in the image below (one subfolder for each class, which in this case is a person to be recognized).
+4. Create a folder that lives within the same path of this repo and name it images. This folder will store the images to be used during the training phase. Please follow the structure shown in the image below (one subfolder for each class, which in this case is a person to be recognized).
  
  <img src="explanation/folder_structure.PNG" width="200"/>
  
