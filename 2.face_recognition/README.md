@@ -37,7 +37,7 @@ To test your system real time with your laptop camera try step 4
 
 This repo was inspired by:
 
-*https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/*
-*https://krasserm.github.io/2018/02/07/deep-face-recognition/*
-*https://www.coursera.org/specializations/deep-learning*
+1. *https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/*
+2. *https://krasserm.github.io/2018/02/07/deep-face-recognition/*
+3. *https://www.coursera.org/specializations/deep-learning*
 
