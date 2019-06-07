@@ -1,6 +1,6 @@
 # TV Script Generator
 
-The aim of this project is to use Recurrent Neural Networks to create fake TV scripts.
+The aim of this project is to use a recurrent neural network to create fake TV scripts.
 To train the network I used the  Seinfeld dataset which contains script samples from 9 seasons.
 
 The network architecture is simple. I used one embedding layer, two LSTM layers and one fully connected layer.
