@@ -1,5 +1,5 @@
 # Face Recognition System (2.1.face_recognition_training)
-
+# Training Phase
 ## Description
 This project employs the power of a pretrained CNN to generate face embeddings. These embeddings are then used to train a SVM model to recognize faces!
 The embeddings and the model are stored in a folder called **model** which is used by the 2.2.face_recognition_recognition project
