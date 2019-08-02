@@ -23,9 +23,11 @@ Steps 1 and 2 should be executed **ONCE**, unless you want to train your system 
 1. Copy and paste the **model folder** generated when executing the pipeline in 2.1.face_recognition_training. This folder contains the embeddings and the SVM model.
 
 2. To start recognizing people you have two options. 
-2.1. To recognize people in static images (i.e. photos captured with a smartphone)  try **python recognize_faces_image.py -o (option) -p (path)**. The <option> parameter can be either i or f. Type *i* if you want to recognize faces in a single image, type *f* if you want to recognize faces inside a folder containing several images. 
+
+To recognize people in static images (i.e. photos captured with a smartphone)  try **python recognize_faces_image.py -o (option) -p (path)**. The <option> parameter can be either i or f. Type *i* if you want to recognize faces in a single image, type *f* if you want to recognize faces inside a folder containing several images. 
 The <path> option is the pointing to the image(s) to be recognized. If you typed i as option, it is expected to be a path pointing to a single file, if you typed f it is expected to be a path pointing to a folder.
-2.2. To test your system real time with your laptop camera try  **python recognize_face_in_video.py**
+ 
+To test your system real time with your laptop camera try  **python recognize_face_in_video.py**
 
 ## Sources.
 
