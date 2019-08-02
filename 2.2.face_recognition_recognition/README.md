@@ -5,7 +5,7 @@
 ## Description
 This project employs the embeddings and the SVM model generated  when executing *2.1.face_recognition_training*
 
- <img src="2.2.face_recognition_recognition/explanation/xd.png" width="300"/>
+ <img src="explanation/xd.png" width="300"/>
 
 
 ## Recommendations
