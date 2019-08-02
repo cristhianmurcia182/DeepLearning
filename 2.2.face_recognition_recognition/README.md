@@ -1,6 +1,6 @@
 # Face Recognition System (2.2.face_recognition_recognition)
 
-# 1. Recognition phase
+# 2. Recognition phase
 
 ## Description
 This project employs the embeddings and the SVM model generated  when executing *2.1.face_recognition_training*
